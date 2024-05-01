@@ -4,11 +4,14 @@ Implementation of Neobis club
 Study plan:
 * Week1
 * solved ps
+ 
 learned using git command line
+
 public class Creating {
     public static void main(String[] args) {
         System.out.println("Heey!, welcome to my repository");
     }
 }
+
 author: Gulzhamal Zhumagulova
 date: 01/05/2024
