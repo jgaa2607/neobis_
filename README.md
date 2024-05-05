@@ -1,9 +1,10 @@
 # neobis_
-Implementation of Neobis club
+**Implementation of Neobis club** 
+<br>
 ![image](https://github.com/jgaa2607/neobis_/assets/168337377/5a827502-5951-495b-9e37-5179245c1953)
 #
-Study plan:
-Week1
+## Study plan: <br>
+### Week1
 * solved ps
 * learned using git command line
 #
@@ -14,5 +15,5 @@ public class Creating {
     }
 }
 ```
-* author - Gulzhamal Zhumagulova
-* date - The date of creation 01/05/2024
+* `author` - Gulzhamal Zhumagulova
+* `date` - The date of creation `01/05/2024`
