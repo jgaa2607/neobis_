@@ -1,5 +1,6 @@
 # neobis_
-Implementation of Neobis club
+**Implementation of Neobis club** 
+<br>
 ![image](https://github.com/jgaa2607/neobis_/assets/168337377/5a827502-5951-495b-9e37-5179245c1953)
 #
 ## Study plan: <br>
