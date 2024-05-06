@@ -2,12 +2,15 @@ package org.example;
 
 public class SequenceIJ4 {
     public void solution() {
-        double k = 0;
-        for (double i = 0; i <= 2; i += 0.2) {
-            for (int j = 1; j <= 3; j++) {
-                System.out.printf("I = %.1f  J = %.1f%n", i, (double) j + k);
+        double i = 0;
+        for(int k = 0; k < 11; k++){
+            double j = i + 1;
+            for(int m = 0; m < 3; m++){
+                DecimalFormat df = new DecimalFormat("#.#");
+                System.out.println("I=" + df.format(i) + " J=" + df.format(j));
+                j++;
             }
-            k += 0.2;
+            i += 0.2;
         }
     }
 }
